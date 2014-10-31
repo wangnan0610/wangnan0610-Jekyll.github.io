@@ -5,18 +5,18 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name:                                                王楠OnTheWay# 博客名称
-    description:                                         追逐梦想# 博客描述
-    title:                                               GOGOGO# 网页标题
-    url:                                                 # 博客地址
+    name:                                                王楠OnTheWay
+    description:                                         追逐梦想
+    title:                                               一颗永不放弃的心
+    url:                                                 http://wangnan0610.github.io/
     duoshuo:                                             # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name:                                                王楠# 作者名称
-    email:                                               # 邮箱地址
-    weibo:                                               # 微博地址
-    github:                                              # GitHub地址
+    name:                                                王楠
+    email:                                               longyueyi0610@gmail.com 
+    weibo:                                               http://www.weibo.com/wangnan0610/home?wvr=5
+    github:                                              https://github.com/wangnan0610 
     logo:                                                # logo地址
     douban:
         name:                                            # 豆瓣地址名称
