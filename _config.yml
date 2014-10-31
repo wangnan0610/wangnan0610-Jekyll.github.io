@@ -7,7 +7,7 @@ paginate_path: page/:num
 blog:
     name:                                                王楠OnTheWay# 博客名称
     description:                                         追逐梦想# 博客描述
-    title:                                               GOGOGO!# 网页标题
+    title:                                               GOGOGO# 网页标题
     url:                                                 # 博客地址
     duoshuo:                                             # 多说ID
     tongji:                                              # 百度统计ID
